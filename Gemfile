@@ -15,6 +15,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem "paperclip", "~> 5.0.0"
+gem 'masonry-rails', '~> 0.2.4'
 
 
 group :development do
